@@ -1,0 +1,6 @@
+### Variables
+@baseUrl = http://localhost:8080
+
+### GET - Fecha y Hora actual
+GET {{baseUrl}}/api/datetime
+Accept: application/json
